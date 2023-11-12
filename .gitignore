@@ -19,6 +19,5 @@ build
 funasr.egg-info
 docs/_build
 modelscope
-samples
 .ipynb_checkpoints
 funasr-runtime-resources/models/
